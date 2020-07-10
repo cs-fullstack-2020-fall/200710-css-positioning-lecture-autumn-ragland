@@ -22,8 +22,8 @@
 1. position the red div `static`
 2. position the orange div `relative` and 10% to the right
 3. position the yellow div `fixed`, 0 from the top and 5% from the left
-4. position the green div `absolute`, 5% from the top and 5% px from the right
-5. position the blue div `absolute`, 5% from the top and 5% px from the left
+4. position the green div `absolute`, 5% from the top and 5%  from the right
+5. position the blue div `absolute`, 5% from the top and 5%  from the left
 6. position the purple div `sticky` and 0 from the bottom
 7. Add  10% to each directional property (top, bottom, left, right)
 Add, commit, and push your assignment
